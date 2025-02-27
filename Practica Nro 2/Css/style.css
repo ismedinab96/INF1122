@@ -1,0 +1,147 @@
+.main{
+    background-color: darkslategray;
+    width: 500px;
+    height: 500px;
+}
+.or1{
+    background-color: brown;
+    width: 50px; height: 50px;
+    border-radius: 50% / 75%;
+    position: fixed;
+    top: 80px;
+    left: 150px;
+}
+.oi1{
+    background-color:burlywood;
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    position: fixed;
+    top: 95px;
+    left: 165px;
+}
+.or2{
+    background-color: brown;
+    width: 50px; height: 50px;
+    border-radius: 50% / 75%;
+    position: fixed;
+    top: 80px;
+    left: 230px;
+}
+.oi2{
+    background-color:burlywood;
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    position: fixed;
+    top: 95px;
+    left: 245px;
+}
+.head{
+    background-color:brown;
+    width: 100px; height: 100px;
+    border-radius: 50%;
+    position: fixed;
+    top: 120px;
+    left: 165px;
+}
+.ca1{
+    background-color: whitesmoke;
+    width: 20px; height: 15px;
+    border-radius: 50% 25%;
+    position: fixed;
+    top: 145px; left: 190px;
+}
+.oj1{
+    background-color: black;
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    position: fixed;
+    top: 150px; left: 195px;
+}
+.ca2{
+    background-color: whitesmoke;
+    width: 20px; height: 15px;
+    border-radius: 50% 25%;
+    position: fixed;
+    top: 145px; left: 220px;
+}
+.oj2{
+    background-color: black;
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    position: fixed;
+    top: 150px; left: 225px;
+}
+.ca3{
+    background-color: black;
+    width: 30px; height: 15px;
+    border-radius: 50% 25%;
+    position: fixed;
+    top: 165px; left: 200px;
+
+}
+.ca4{
+    background-color:crimson;
+    width: 40px; height: 10px;
+    border-radius: 50% 25%;
+    position: fixed;
+    top: 185px; left: 195px;
+}
+.est{
+    background-color: brown;
+    width: 200px; height: 200px;
+    border-radius: 75% 60% 50% 50%;
+    position: fixed;
+    top: 218px; left: 110px;
+}
+.om{
+    background-color: burlywood;
+    width: 100px; height: 160px;
+    border-radius: 75% 60% 50% 50%;
+    position: fixed;
+    top: 240px; left: 160px;
+}
+.ma1{
+    background-color: brown;
+    width: 50px; height: 50px;
+    border-radius: 75% 60% 50% 50%;
+    position: fixed;
+    top: 220px; left: 90px;
+
+}
+.ma2{
+    background-color: brown;
+    width: 50px; height: 50px;
+    border-radius: 75% 60% 50% 50%;
+    position: fixed;
+    top: 220px; left: 290px;
+}
+.ma3{
+    background-color: brown;
+    width: 70px; height: 45px;
+    border-radius: 75% 60% 50% 50%;
+    position: fixed;
+    top: 390px; left: 90px;
+
+}
+.ma4{
+    background-color: brown;
+    width: 70px; height: 45px;
+    border-radius: 75% 60% 50% 50%;
+    position: fixed;
+    top: 390px; left: 260px;
+
+}
+.nom{
+    background-color: coral;
+    border-color: black;
+    border: 10px;
+    width: 500px; height: 50px;
+    position: fixed;
+    top: 460px; 
+}
+h2{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
