@@ -1,0 +1,136 @@
+.main{
+    background-color: burlywood;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+    "box1 box1 box1 box1 box1 box1 box2 box2 box2 box2 box2 box2 box2"
+    "box3 box3 box3 box3 box3 box3 box3 box3 box3 box3 box3 box3 box3"
+    "box4 box4 box5 box5 box6 box6 box9 box9 box10 box10 box10 box15 box15"
+    "box4 box4 box5 box5 box6 box6 box9 box9 box10 box10 box10 box15 box15"
+    "box4 box4 box5 box5 box6 box6 box9 box9 box10 box10 box10 box15 box15"
+    "box4 box4 box7 box7 box8 box8 box9 box9 box11 box12 box12 box15 box15"
+    "box4 box4 box7 box7 box8 box8 box9 box9 box11 box13 box14 box15 box15"
+    "box4 box4 box16 box16 box16 box16 box16 box16 box16 box16 box16 box15 box15"
+    ;
+    height: 100vh;
+    width: 100vw;
+
+}
+.main .box1{
+    grid-area: box1;
+    background-color: brown;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+
+}
+.main .box2{
+    grid-area: box2;
+    background-color: brown;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    
+}
+.main .box3{
+    grid-area: box3;
+    background-color: brown;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    
+}
+.main .box4{
+    grid-area: box4;
+    background-color: brown;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    
+}
+.main .box5{
+    grid-area: box5;
+    background-color: darkgray;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;}
+.main .box6{
+    grid-area: box6;
+    background-color: darkgray;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;}
+
+.main .box7{
+    grid-area: box7;
+    background-color: darkgray;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;}
+
+.main .box8{
+    grid-area: box8;
+    background-color: darkgray;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;}
+
+.main .box9{
+    grid-area: box9;
+    background-color: deeppink;
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+}
+.main .box10{
+    grid-area: box10;
+    background-color: deeppink;
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+}
+.main .box11{
+    grid-area: box11;
+    background-color: deeppink;
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+}
+.main .box12{
+    grid-area: box12;
+    background-color: deeppink;
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+}
+.main .box13{
+    grid-area: box13;
+    background-color: deeppink;
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+}
+.main .box14{
+    grid-area: box14;
+    background-color: deeppink;
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+}
+.main .box15{
+    grid-area: box15;
+    background-color: brown;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+}
+.main .box16{
+    grid-area: box16;
+    background-color: brown;
+    text-align: center;
+    margin: 10px;
+    font-size: 30px;
+}
