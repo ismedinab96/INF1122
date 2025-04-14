@@ -7,10 +7,24 @@ body{
     width: 100vw;
     height: 100vh;
 }
-
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
 footer{
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+    position: fixed;
+}
+.grillas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.acordeon h1{
+    text-align: center;
 }
