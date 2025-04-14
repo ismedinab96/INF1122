@@ -12,6 +12,8 @@ body{
     justify-content: center;
     align-items: center;
     width: 100%;
+    background-color: transparent;
+    font-size: 20px;
 }
 footer{
     width: 100%;
@@ -27,4 +29,14 @@ footer{
 }
 .acordeon h1{
     text-align: center;
+}
+
+.cards{
+ display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
 }
